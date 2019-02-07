@@ -7,12 +7,12 @@ public class Main {
         Random rand = new Random();
 
 //Array of food options
-        String[] rice = {"white", "brown", "none"};
-        String[] meat = {"chicken" , "steak" ,"carnidas" ,"chorizo" ,"sofritas" ,"just veggies"};
-        String[] beans = {"pinto" ,"black" ,"no beans"};
+        String[] rice = {"white rice", "brown rice", "no rice"};
+        String[] meat = {"chicken meat" , "steak meat" ,"carnidas meat" ,"chorizo meat" ,"sofritas meat" ,"just veggies"};
+        String[] beans = {"pinto beans" ,"black beans" ,"no beans"};
         String[] veggies = {"lettuce" ,"fajita veggies" , "no veggies" , "all"};
-        String[] salsa = {"mild" ,"medium" , "hot" , "none" , "all"};
-        String[] cheeses = {"yellow" , "white" , "shredded" , "string" , "none" , "all"};
+        String[] salsa = {"mild salsa" ,"medium salsa" , "hot salsa" , "no salsa" , "all"};
+        String[] cheeses = {"yellow cheese" , "white cheese" , "shredded cheese" , "string cheese" , "no cheese" , "all"};
         String[] extras = {"guac" , "queso" , "sour cream" , "grilled onions"};
 
 //Welcome user
